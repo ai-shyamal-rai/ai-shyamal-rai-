@@ -10,7 +10,7 @@ I am a **GenAI Product & ML Engineer** passionate about building intelligent app
 | :--- | :--- | :--- | :--- |
 | **📈 DataScience-ML-Projects** | A comprehensive collection of Data Science and Machine Learning projects covering predictive modeling, classification, regression, and deep learning. | Python, Jupyter, Scikit-Learn, Pandas | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/DataScience-ML-Projects) |
 | **🤖 nlp-web-app** | A Flask web application for sentiment analysis, named entity recognition (NER), and emotion detection, with integrated user authentication and profiles. | Python, Flask, NLP, HTML/CSS | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/nlp-web-app) |
-| **🖥️ nlp-desktop-app** | A functional desktop NLP application designed for local execution of sentiment analysis, NER, and emotion detection pipelines. | Python, Tkinter, PyQt, NLP | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/nlp-dekstop-app) |
+| **🖥️ nlp-desktop-app** | A functional desktop NLP application designed for local execution of sentiment analysis, NER, and emotion detection pipelines. | Python, Tkinter, PyQt, NLP | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/nlp-desktop-app) |
 | **📊 STARTUP-DASHBOARD** | An interactive dashboard analyzing Indian startup funding data — displaying overall trends, investor insights, and company profiles. | Streamlit, Python, Pandas, Plotly | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/STARTUP-DASHBOARD) |
 | **🏏 ipl-api-service** | A Flask REST API backend serving comprehensive IPL cricket data including teams, head-to-head records, and deep player performance stats. | Flask, Python, REST API, JSON | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/ipl-api-service) |
 
@@ -34,22 +34,25 @@ I am a **GenAI Product & ML Engineer** passionate about building intelligent app
   <tr>
     <td width="50%" valign="top">
       <h3>GitHub Streak Stats</h3>
-      <img src="https://github-readme-streak-stats.vercel.app/?user=ai-shyamal-rai&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <img src="https://github-readme-streak-stats.vercel.app/?user=ai-shyamal-rai&theme=dark&hide_border=true&cache_id=1" alt="GitHub Streak" width="100%"/>
     </td>
     <td width="50%" valign="top">
       <h3>Languages & Frameworks</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-shyamal-rai&layout=donut&theme=dark&hide_border=true&count_private=true" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-shyamal-rai&layout=donut&theme=dark&hide_border=true&count_private=true&cache_id=1" alt="Top Languages" width="100%"/>
     </td>
   </tr>
 </table>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ai-shyamal-rai&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Shyamal's GitHub Stats" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ai-shyamal-rai&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_id=1" alt="Shyamal's GitHub Stats" width="100%"/>
 </p>
 
 ---
 
 ## 🔭 Current Focus & Interests
+
 * **Currently working on:** Designing robust Agentic AI solutions and end-to-end automated workflows.
 * **🌱 Learning & Exploring:** Advanced Agentic frameworks, n8n automation patterns, and scaling GenAI APIs.
 * **👯 Looking to collaborate on:** Open-source GenAI projects, innovative LLM-backed applications, and Product-led AI initiatives.
@@ -58,8 +61,9 @@ I am a **GenAI Product & ML Engineer** passionate about building intelligent app
 ---
 
 ## 📬 Connect With Me
+
 * ✉️ **Email:** [shyamal.in.rai@gmail.com](mailto:shyamal.in.rai@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/ai-shyamal-rai](https://linkedin.com/https://linkedin.com/in/ai-shyamal-rai)
+* 💼 **LinkedIn:** [linkedin.com/in/ai-shyamal-rai](https://linkedin.com/in/ai-shyamal-rai)
 * 📍 **Location:** Agra, UP, India 🇮🇳
 
 <p align="center"><em>😄 Happy Coding and Continuous Learning! 🚀</em></p>
