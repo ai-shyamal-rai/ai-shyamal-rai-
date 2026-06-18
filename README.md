@@ -22,10 +22,10 @@ I am a **GenAI Product & ML Engineer** passionate about building intelligent app
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **📈 DataScience-ML-Projects** | A comprehensive collection of Data Science and Machine Learning projects covering predictive modeling, classification, regression, and deep learning. | Python, Jupyter, Scikit-Learn, Pandas | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/DataScience-ML-Projects) |
-| **🤖 nlp-web-app** | A Flask web application for sentiment analysis, named entity recognition (NER), and emotion detection, with integrated user authentication and profiles. | Python, Flask, NLP, HTML/CSS | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/nlp-web-app) |
-| **🖥️ nlp-desktop-app** | A functional desktop NLP application designed for local execution of sentiment analysis, NER, and emotion detection pipelines. | Python, Tkinter, PyQt, NLP | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/nlp-dekstop-app) |
+| **🤖 NLP-WEB-APP** | A Flask web application for sentiment analysis, named entity recognition (NER), and emotion detection, with integrated user authentication and profiles. | Python, Flask, NLP, HTML/CSS | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/nlp-web-app) |
+| **🖥️ NLP-DEKSTOP-APP** | A functional desktop NLP application designed for local execution of sentiment analysis, NER, and emotion detection pipelines. | Python, Tkinter, PyQt, NLP | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/nlp-dekstop-app) |
 | **📊 STARTUP-DASHBOARD** | An interactive dashboard analyzing Indian startup funding data — displaying overall trends, investor insights, and company profiles. | Streamlit, Python, Pandas, Plotly | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/STARTUP-DASHBOARD) |
-| **🏏 ipl-api-service** | A Flask REST API backend serving comprehensive IPL cricket data including teams, head-to-head records, and deep player performance stats. | Flask, Python, REST API, JSON | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/ipl-api-service) |
+| **🏏 IPL-API-SERVICE** | A Flask REST API backend serving comprehensive IPL cricket data including teams, head-to-head records, and deep player performance stats. | Flask, Python, REST API, JSON | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/ipl-api-service) |
 
 ---
 
