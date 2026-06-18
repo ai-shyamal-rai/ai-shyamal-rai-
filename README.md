@@ -35,14 +35,12 @@ I am a **GenAI Product & ML Engineer** passionate about building intelligent app
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ai-shyamal-rai&theme=default&hide_border=true" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ai-shyamal-rai&theme=default&hide_border=true" alt="GitHub Streak" width="100%"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ai-shyamal-rai&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Shyamal's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-shyamal-rai&theme=default&hide_border=true&count_private=true&layout=compact" alt="Most Used Languages" width="48%"/>
 </p>
----
 
 ## 🔭 Current Focus & Interests
 
