@@ -1,6 +1,6 @@
 # Hi there, I'm Shyamal Rai! 👋
 
-I am a **AI Product & ML Engineer** passionate about building intelligent applications and automated workflow solutions. I specialize in leveraging Large Language Models (LLMs), Python, and FastAPI to create dynamic, agentic AI systems, while bringing strong foundational product thinking to the table.
+I am a AI Product Engineer | GenAI & ML** passionate about building intelligent applications and automated workflow solutions. I specialize in leveraging Large Language Models (LLMs), Python, and FastAPI to create dynamic, agentic AI systems, while bringing strong foundational product thinking to the table.
 
 ---
 
