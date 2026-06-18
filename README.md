@@ -4,17 +4,6 @@ I am a **GenAI Product & ML Engineer** passionate about building intelligent app
 
 ---
 
-## 🏗️ Featured Projects
-
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **📈 DataScience-ML-Projects** | A comprehensive collection of Data Science and Machine Learning projects covering predictive modeling, classification, regression, and deep learning. | Python, Jupyter, Scikit-Learn, Pandas | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/DataScience-ML-Projects) |
-| **🤖 nlp-web-app** | A Flask web application for sentiment analysis, named entity recognition (NER), and emotion detection, with integrated user authentication and profiles. | Python, Flask, NLP, HTML/CSS | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/nlp-web-app) |
-| **🖥️ nlp-desktop-app** | A functional desktop NLP application designed for local execution of sentiment analysis, NER, and emotion detection pipelines. | Python, Tkinter, PyQt, NLP | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/nlp-desktop-app) |
-| **📊 STARTUP-DASHBOARD** | An interactive dashboard analyzing Indian startup funding data — displaying overall trends, investor insights, and company profiles. | Streamlit, Python, Pandas, Plotly | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/STARTUP-DASHBOARD) |
-| **🏏 ipl-api-service** | A Flask REST API backend serving comprehensive IPL cricket data including teams, head-to-head records, and deep player performance stats. | Flask, Python, REST API, JSON | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/ipl-api-service) |
-
----
 
 ## 🛠️ Technical Toolkit
 
@@ -28,11 +17,24 @@ I am a **GenAI Product & ML Engineer** passionate about building intelligent app
 
 ---
 
+## 🏗️ Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **📈 DataScience-ML-Projects** | A comprehensive collection of Data Science and Machine Learning projects covering predictive modeling, classification, regression, and deep learning. | Python, Jupyter, Scikit-Learn, Pandas | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/DataScience-ML-Projects) |
+| **🤖 nlp-web-app** | A Flask web application for sentiment analysis, named entity recognition (NER), and emotion detection, with integrated user authentication and profiles. | Python, Flask, NLP, HTML/CSS | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/nlp-web-app) |
+| **🖥️ nlp-desktop-app** | A functional desktop NLP application designed for local execution of sentiment analysis, NER, and emotion detection pipelines. | Python, Tkinter, PyQt, NLP | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/nlp-dekstop-app) |
+| **📊 STARTUP-DASHBOARD** | An interactive dashboard analyzing Indian startup funding data — displaying overall trends, investor insights, and company profiles. | Streamlit, Python, Pandas, Plotly | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/STARTUP-DASHBOARD) |
+| **🏏 ipl-api-service** | A Flask REST API backend serving comprehensive IPL cricket data including teams, head-to-head records, and deep player performance stats. | Flask, Python, REST API, JSON | [Explore Repo 🔗](https://github.com/ai-shyamal-rai/ipl-api-service) |
+
+---
+
+
 ## 📊 My GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-shyamal-rai&layout=donut&theme=dark&hide_border=true&count_private=true" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ai-shyamal-rai&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Shyamal's GitHub Stats" width="48%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-shyamal-rai&layout=donut&theme=dark&hide_border=true&count_private=true" alt="Top Languages" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ai-shyamal-rai&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Shyamal's GitHub Stats" height="190px"/>
 </p>
 
 ---
