@@ -29,9 +29,6 @@ I am a **GenAI Product & ML Engineer** passionate about building intelligent app
 
 ---
 
-
-## 📊 My GitHub Analytics
-
 ## 📊 My GitHub Stats
 
 <p align="center">
